@@ -26,10 +26,51 @@ Se responde: la escuela está al lado de la iglesia / The school is next to the 
 Se responde: está frente al restaurante Milan / It’s in front of Milan restaurant.
 
 avenida --> avenue
-Bkery --> panaderia
+Bakery --> panaderia
 Bank --> Banco
 Barber shop --> barberia
 Bookstore --> libreria
 cake shop --> pasteleria
 cinema, movies --> cine
 fire station --> estacion de bomberos
+gym --> gimnasio
+Hospital --> Hospital
+library --> Biblioteca
+mall --> centro comercial
+poloce station --> estacion de policia
+post ofice --> oficina de correos 
+reataurant --> restaurante
+school --> escurla
+shoe shop --> zapateria
+shop --> tienda
+street --> calle
+supermarket --> supermercado
+Theater --> Teatro
+university --> univercidad
+
+conversaciones para preguntar  donde queda un lugar 
+
+Hello Jim. How are you?
+Hola Jim. ¿Cómo estás?
+
+ Hi Sue. I’m fine and you?
+ Hola Sue. Estoy bien, ¿y tú?
+
+Fine, thanks. And, what are you doing here?
+Bien, gracias. ¿Y tú, qué haces aquí?
+
+I want to go to the post office, but I don’t know where it is. Can you tell me where the post office is, please?
+Quiero ir a la oficina de correos, pero no sé dónde está. ¿Puedes decirme dónde está la oficina de correos, por favor?
+
+Sure. Go ahead! It’s across the street from the park, between the museum and the police station.
+Claro. ¡Sigue adelante! Está al otro lado de la calle del parque, entre el museo y la estación de policía.
+
+Oh, thank you, Sue.
+
+
+ejemplos 
+The Police Station is across the street from the park, next to the Post office.
+La estación de policía está al otro lado de la calle del parque, junto a la oficina de correos.
+
+It's across the street from the park, next to the Post office.
+Está al otro lado de la calle del parque, junto a la oficina de correos.
