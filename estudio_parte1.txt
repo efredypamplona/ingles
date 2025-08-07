@@ -133,3 +133,33 @@ Significado
 Entre
 The theater is between the bakery and the post office.
 El teatro está entre la panadería y la oficina de correos.
+
+
+Preposición de lugar
+"In front of"
+Significado
+En frente de
+Gerard is in front of the house.
+Gerard está en frente de la casa.
+
+Preposición de lugar
+"Across"
+Significado
+Al otro lado de, al cruzar
+The park is across the Main street from the Post office.
+El parque está al cruzar la calle Principal desde la Oficina de correos.
+
+
+Preposición de lugar
+"Under"
+Significado
+Debajo de
+The girl is under the table.
+La niña está debajo de la mesa. 
+
+Preposición de lugar
+"Opposite"
+Significado
+Opuesto a, del otro lado
+The bakery is opposite the barbershop.
+La panadería está del otro lado de la barbería.
