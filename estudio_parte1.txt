@@ -259,3 +259,29 @@ For example:
 Mary is eating her lunch. 
 En este caso el verbo principal es to eat y se le añade ing = eating. 
 / Mary está comiendo su almuerzo.
+
+
+I am drinking orange juice. 
+Yo estoy tomando jugo de naranja.
+
+
+Los verbos principales de las oraciones pueden ser regulares o irregulares. 
+Cuando se trata de verbos irregulares,
+la terminación de estos cambia cuando se va a formar el gerundio. Por ejemplo:
+
+--Terminación vocal E--
+
+Cuando el verbo principal termina en la vocal e, esta se elimina al añadir la 
+terminación ing en el verbo principal:
+
+to serve + ing = serving (pierde la e final)
+
+
+The waiter is serving the dessert.
+El mesero está sirviendo el postre.
+
+(To come) - Jhon is coming to the party.
+Jhon está viniendo a la fiesta.
+
+(To dance) - She is dancing in the theater.
+Ella está bailando en el teatro.
