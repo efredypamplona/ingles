@@ -247,3 +247,15 @@ como se puede observar a continuación:
 paginas para traducir
 https://www.wordreference.com/
 https://www.linguee.es/
+
+
+3.2 El presente continuo
+Cabe recordar que debe indicarse que el verbo to be funciona también como verbo auxiliar para ayudar a formar el tiempo presente continuo. En este caso, 
+se conjuga el verbo to be y se coloca el gerundio del verbo principal.
+El gerundio se forma añadiendo la terminación ing al infinitivo del verbo principal de la oración.
+
+For example:
+
+Mary is eating her lunch. 
+En este caso el verbo principal es to eat y se le añade ing = eating. 
+/ Mary está comiendo su almuerzo.
