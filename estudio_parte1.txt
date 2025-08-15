@@ -285,3 +285,37 @@ Jhon está viniendo a la fiesta.
 
 (To dance) - She is dancing in the theater.
 Ella está bailando en el teatro.
+
+
+--Verbo con una sola sílaba--
+Cuando el verbo tiene una sola sílaba y termina en consonante después de una vocal, 
+se repite la consonante final y se añade ing. 
+Igual debe hacerse si el verbo es de dos sílabas y tiene su acento en la última sílaba.
+
+Listen to me --> escuchame
+
+(To swim / nadar) - Carol is swimming very fast.
+Carol está nadando muy rápido.
+
+(To run / correr) - Leo is running in the park.
+Leo está corriendo en el parque.
+
+(To begin / empezar) - The baby is beginning to cry.
+El bebé está empezando a llorar.    
+
+(To forget / olvidar) - She is forgetting the keys.
+Ella está olvidando las llaves.
+
+Sujeto + Verbo to be + Verbo en gerundio + Complemento
+Nelly is waiting for the bus
+Nelly está esperando el bus.
+
+Sujeto + Verbo to be + not + Verbo en gerundio + Complemento
+Nelly is not waiting for the bus.
+Nelly no está esperando el bus.
+
+Verbo to be + Sujeto + Verbo en gerundio + Complemento + ?
+Is Nelly waiting for the bus?
+¿Está Nelly esperando el bus?
+
+What are you doing? / ¿Qué estás haciendo?
