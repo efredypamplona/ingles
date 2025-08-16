@@ -1,1 +1,39 @@
 A shopping day!
+
+Tabla 1Food and amounts / Alimentos y cantidades
+
+Susan wants to buy a pair of sandals. Answer: She goes to a shoe store.
+Susan quiere comprar un par de sandalias. Respuesta: Ella va a una zapatería.
+
+Peter needs a black jacket. Answer: He visits the clothing store.
+Peter necesita una chaqueta negra. Respuesta: Él visita la tienda de ropa. 
+
+Milly needs a Chemistry book. Answer: She goes to the library.
+Milly necesita un libro de Química. Respuesta: Ella va a la biblioteca.
+
+Lia wants to buy a cake. Answer: She goes to the bakery
+Lia quiere comprar una torta. Respuesta: Ella va a la panadería.
+
+I want to eat an ice cream. Answer: I go to the ice cream shop.
+Yo quiero comer un helado. Respuesta: Yo voy a la heladería.
+
+Tom wants to buy an iPhone. Answer: He goes to the electronic store.
+Tom quiere comprar un Iphone. Respuesta: Él va a la tienda de electrónicos.
+
+Sam needs to buy a chair. Answer: He goes to the furniture store.
+Sam necesita comprar una silla. Respuesta: Él va a la mueblería.
+
+Lisa has to buy 200 grams of cheese. Answer: She goes to the supermarket.
+Lisa tiene que comprar 200 gramos de queso. Respuesta: Ella va al supermercado.
+
+George wants to buy a CD by Karol G. Answer: He goes to the music store.
+George quiere comprar un CD de Karol G. Respuesta: Él va a la tienda de música
+
+Laura needs to buy a doll. Answer: She goes to the toy store.
+Laura necesita comprar una muñeca. Respuesta: Ella va a la tienda de juguetes.
+
+They want to buy an engagement ring. Answer: They go to the jewelry.
+Ellos quieren comprar un anillo de compromiso. Respuesta: Ellos van a la joyería.
+
+Marty wants to see a movie with his friends. Answer: He goes to the movie theater.
+Marty quiere ver una película con sus amigos. Respuesta: Él va al cine.
