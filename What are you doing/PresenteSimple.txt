@@ -1,0 +1,31 @@
+Presente simple / Simple present
+
+Mediante la forma afirmativa, se habla de acciones que se realizan habitualmente. 
+Una oración en forma afirmativa posee la siguiente estructura básica:
+
+Sujeto + Verbo principal + Complemento
+
+La forma del presente es muy parecida a la forma básica o verbo en infinitivo. En general, 
+para los verbos regulares, la única diferencia es que se añade una -s a la forma básica en 
+la tercera persona del singular (he, she, it). Por ejemplo: 
+
+Marco takes the bus. --> Marco toma el autobús.
+Celine sings very well. -->Celine canta muy bien.
+Mario walks in the park. --> Mario camina en el parque.
+
+2.1 Forma afirmativa
+
+Los tiempos presente simple y presente continuo pueden ser confundidos debido a ciertas similitudes que existen,
+dado que para hablar de una acción que están efectuando ahora se podría pensar en el uso del presente simple,
+pero el tiempo que se utiliza para esto es el presente continuo. Revise la forma afirmativa con el verbo to talk / hablar:
+2.2 Forma negativa
+Mediante la forma negativa, se habla de acciones que no se realizan habitualmente. Una oración en forma negativa posee la siguiente 
+estructura básica y se conjuga de la siguiente manera:
+
+Sujeto + Verbo auxiliar + Negación + Verbo principal + Complemento
+
+2.3 Forma interrogativa
+Mediante la forma interrogativa, se hace una pregunta referida a la acción del verbo principal. 
+Una oración en forma interrogativa posee la siguiente estructura básica:
+
+Verbo Auxiliar + Sujeto + Verbo principal + Complemento + ?
